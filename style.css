@@ -1,0 +1,42 @@
+.div1{
+    float: left;
+    
+}
+.col1{
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+.sachin{
+    color: grey;
+}
+.col1:hover{
+    color: red;
+}
+.sachin:hover{
+    color: black;
+}
+.left-section{
+    background-color: black;
+    width: 60%;
+    height: 600px;
+    float: left;
+}
+.right-section{
+    background-color: black;
+    width: 40%;
+    height: 600px;
+    float: left;
+}
+.works{
+    height: 1400px;
+    width: 100%;
+    background-color: black;
+}
+.im{
+    transition: 1s;
+}
+.im:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
